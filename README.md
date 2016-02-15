@@ -1,2 +1,2 @@
 # Cubba
-Android Chat example with smack api and openfire server.
+Android Chat app example with XMPP smack api and openfire server.
