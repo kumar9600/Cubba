@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CubbaCubba</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="sersearch_hint"></string>
+</resources>

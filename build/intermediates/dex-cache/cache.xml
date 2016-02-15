@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-core/0.4.2/a4c8ce09be6ec90479be74290e381de4288c9569/jxmpp-core-0.4.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/jxmpp-core-0.4.2_ef9461a3e55118a08be82ae80548713a75645f26.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-im/4.1.5/2245aac70ff47195c61711a15a790e65c43c5c6a/smack-im-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2245aac70ff47195c61711a15a790e65c43c5c6a">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-im-4.1.5_d67c4d538b35d0afd0bb75fdea99843518716db9.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android/4.1.5/780e9a850108b15f53b70271f9d7e4513cd9e57b/smack-android-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="780e9a850108b15f53b70271f9d7e4513cd9e57b">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-android-4.1.5_d7702f2cd73f1f765d6762cdd7793ed3aa44fed3.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9b662ff0ac7bc235ffeb7e1afc623e8e62d7c442.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/de.measite.minidns/minidns/0.1.7/993582d1455b93a5723d2af4b39d8679735b3550/minidns-0.1.7.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/minidns-0.1.7_79ab048138c687f8f9fe8d4aefa924ba480e131b.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-tcp/4.1.5/1c988c338c25e3b4531a2261ac880f46a25d3f79/smack-tcp-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1c988c338c25e3b4531a2261ac880f46a25d3f79">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-tcp-4.1.5_cbc3a5298e089fd9e633926ff3421d22f32eab90.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-resolver-minidns/4.1.5/e52322db22b14ac0a98ae63d5bdccde582b26e8c/smack-resolver-minidns-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e52322db22b14ac0a98ae63d5bdccde582b26e8c">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-resolver-minidns-4.1.5_57b2d1b25bb4eb84141677ed21d644a658e75f99.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_b5684044bf3b31ce5124a901bea26204db560324.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_7c3b42c0a31d4f5e526d1430c0aafcc3d6d8268c.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.0.1_c518ff63a5f9511846116325710ef8b8e08e3ac1.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_cf7779702ded1b08105d9ceb40b47e66d5a651e5.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-extensions/4.1.5/d2a55a29b761ca02cfc9c06a5e1a548ead68abd2/smack-extensions-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d2a55a29b761ca02cfc9c06a5e1a548ead68abd2">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-extensions-4.1.5_6328007ae16d50ddd73e89381efe233260641f50.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-core/4.1.5/4e896af64e8be5c1aa12d9db95353e1987ef4d84/smack-core-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4e896af64e8be5c1aa12d9db95353e1987ef4d84">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-core-4.1.5_c449ef28c6a183257b681e95921c5106152d56de.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.jxmpp/jxmpp-util-cache/0.4.2/4aa590f2a44d49444dcd3bb082017bf0b46f2ff7/jxmpp-util-cache-0.4.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/jxmpp-util-cache-0.4.2_347140c148bc99b9db812aceafc0a770efad6efa.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-android-extensions/4.1.5/9c52e550cc679a3b30289d397707ee988a61b9b5/smack-android-extensions-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9c52e550cc679a3b30289d397707ee988a61b9b5">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-android-extensions-4.1.5_1c31caeaddd75c298a490e8de5d280a15a39b6c9.jar" />
+    </item>
+    <item
+        jar="/home/mcemil/.gradle/caches/modules-2/files-2.1/org.igniterealtime.smack/smack-sasl-provided/4.1.5/b41c37cd16b10aabc4d97f34f212ad02949aa3f1/smack-sasl-provided-4.1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b41c37cd16b10aabc4d97f34f212ad02949aa3f1">
+        <dex dex="/home/mcemil/AndroidStudioProjects/Cubba/app/build/intermediates/pre-dexed/debug/smack-sasl-provided-4.1.5_7b95c5eeeb273120eaf5b36a686c403afa713e83.jar" />
+    </item>
+
+</items>
